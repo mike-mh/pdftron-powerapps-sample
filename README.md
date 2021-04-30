@@ -19,9 +19,9 @@ If you'd like to easily switch between versions of Node, check out [nvm](https:/
 
 ## Installation
 
-To get started, you will need to install the (Power Apps CLI)[https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli#:~:text=Microsoft%20Power%20Apps%20CLI%20is%20a%20simple%2C%20single-stop,developers%20and%20app%20makers%20to%20create%20code%20components.] on your machine.
+To get started, you will need to install the [Power Apps CLI](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli#:~:text=Microsoft%20Power%20Apps%20CLI%20is%20a%20simple%2C%20single-stop,developers%20and%20app%20makers%20to%20create%20code%20components.]) on your machine.
 
-You can find detailed instructions for setting up the Power Apps CLI fomr (Microsoft's technical documentation)[https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli#install-power-apps-cli]
+You can find detailed instructions for setting up the Power Apps CLI fomr [Microsoft's technical documentation](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli#install-power-apps-cli)
 
 You'll also need to host the WebViewer in your own server with a full URL to be accessed from the PowerApps sample.
 
