@@ -73,7 +73,7 @@ pac solution add-reference --path ..
 
 After this is done, you should see a generated `Solutions.cdsproj` file.
 
-Update the `PropertyGroup` to include an `OutputPath` valiue
+Update the `PropertyGroup` to include an `OutputPath` value.
 
 ```
   <PropertyGroup>
@@ -106,4 +106,18 @@ You should now have the solution zipped in `PDFTronComponent\Solutions\release\b
 
 You'll now be able to updload the solution to your Power Apps instace by following the instructions [here](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/import-update-export-solutions).
 
+After you generate the `Solutions.zip` file you'll be able to upload it 
+
 You'll now be able to import custom components cotaining the PDFTron WebViewer.
+
+Create a canvas app and import the PDFTron Component
+![image](https://user-images.githubusercontent.com/16066774/116763558-afa53c00-a9d2-11eb-9b9e-14af56602979.png)
+
+Select the TSPDFTronComponent to import into your project
+![image](https://user-images.githubusercontent.com/16066774/116763593-d06d9180-a9d2-11eb-99a3-a30987de7611.png)
+
+You can now place the component into your application and publish.
+![image](https://user-images.githubusercontent.com/16066774/116763717-4ffb6080-a9d3-11eb-867c-db251b3e282c.png)
+
+![image](https://user-images.githubusercontent.com/16066774/116763720-57bb0500-a9d3-11eb-8d0b-18a656665096.png)
+
